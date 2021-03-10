@@ -5,16 +5,16 @@ This is the SwiftUI demo project that we showed in our video tutorial below.
 [![Watch the video](https://img.youtube.com/vi/VlhcNR7Qrno/maxresdefault.jpg)](https://youtu.be/VlhcNR7Qrno)
 
 ## What You'll Learn:
-00:00 What is SwiftUI?
-22:26 Basic SwiftUI Elements
-36:14 Modifiers
-52:58 State Properties
-1:04:09 SFSymbols
-1:14:21 Slots App
-1:41:06 SwiftUI Data Flow
-1:53:06 Improving the Slots App
-2:13:33 Challenge
-2:16:42 Solution
+- 00:00 What is SwiftUI?
+- 22:26 Basic SwiftUI Elements
+- 36:14 Modifiers
+- 52:58 State Properties
+- 1:04:09 SFSymbols
+- 1:14:21 Slots App
+- 1:41:06 SwiftUI Data Flow
+- 1:53:06 Improving the Slots App
+- 2:13:33 Challenge
+- 2:16:42 Solution
 
 ## About CodeWithChris
 
